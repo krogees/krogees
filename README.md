@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krogees
 - 👀 I’m interested in tecnology
-- 🌱 I’m currently learning aws, docker, kubernetes, linux, CI/CD;
+- 🌱 I’m currently learning aws, docker, kubernetes, linux, CI/CD, Devops;
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
