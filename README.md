@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krogees
+ - 👋 Hi, I’m Kenney Rogees
 - 👀 I’m interested in tecnology
 - 🌱 I’m currently learning aws, docker, kubernetes, linux, CI/CD, Devops;
 - 💞️ I’m looking to collaborate on ...
